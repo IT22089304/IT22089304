@@ -16,7 +16,7 @@
 - 🤝 I’m looking to collaborate on **React + Flask + Firebase systems**  
 - 🌱 I’m currently learning **Next.js and ML model deployment**  
 - 💬 Ask me about **React, Tailwind CSS, Flask, Firebase, MongoDB, Power BI**  
-- 📫 How to reach me: lahirubandara.dev@gmail.com  
+- 📫 How to reach me: https://lab-developers.web.app/
 
 ---
 
