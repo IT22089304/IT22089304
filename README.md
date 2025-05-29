@@ -34,17 +34,3 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,flask,firebase,mongodb,python,tailwind,git,postman,mysql,vscode,html,css,dart,flutter,figma" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=IT22089304&show_icons=true&theme=radical" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22089304&layout=compact&theme=radical" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22089304&theme=radical" />  
-<img src="https://github-profile-trophy.vercel.app/?username=IT22089304&theme=radical&row=1&column=6" />
-
----
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT22089304&theme=react-dark)
