@@ -1,1 +1,50 @@
+<p align="center">
+  <img src="https://i.imgur.com/U7YRCyR.png" alt="Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
+<h3 align="center">Founder @ LAB Developers | Full Stack Dev | Data + AI Enthusiast</h3>
+
+---
+
+📞 0723954658  
+📧 Labdevelopers2025@gmail.com  
+
+---
+
+- 🔭 I’m currently working on **NEXT.JS and AI-based projects**  
+- 🤝 I’m looking to collaborate on **React + Flask + Firebase systems**  
+- 🌱 I’m currently learning **Next.js and ML model deployment**  
+- 💬 Ask me about **React, Tailwind CSS, Flask, Firebase, MongoDB, Power BI**  
+- 📫 How to reach me: lahirubandara.dev@gmail.com  
+
+---
+
+### 🌐 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahirubandara.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your-link)
+
+---
+
+### ⚡ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,flask,firebase,mongodb,python,tailwind,git,postman,mysql,vscode,html,css,dart,flutter,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IT22089304&show_icons=true&theme=radical" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22089304&layout=compact&theme=radical" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22089304&theme=radical" />  
+<img src="https://github-profile-trophy.vercel.app/?username=IT22089304&theme=radical&row=1&column=6" />
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT22089304&theme=react-dark)
