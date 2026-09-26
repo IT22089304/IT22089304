@@ -3,33 +3,64 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
-<h3 align="center">Founder @ LAB Developers | Full Stack Dev | Data + AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B3FA0&center=true&vCenter=true&width=600&lines=Founder+%40+LAB+Developers;Full-Stack+Developer;Data+Science+%2B+AI+Enthusiast;Building+wageestate.com+%26+TagMe.lk" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📞-072%203954658-6B3FA0?style=flat-square" />
+  <img src="https://img.shields.io/badge/📧-Labdevelopers2025%40gmail.com-6B3FA0?style=flat-square" />
+</p>
 
 ---
 
-📞 0723954658  
-📧 Labdevelopers2025@gmail.com  
+### 🚀 What I'm up to
+
+- 🔭 Currently building **Next.js and AI-powered projects**, including **TagMe.lk** — a QR-based system for tagging and tracking physical assets (pre-launch)
+- 🎓 Running a final-year research project, **Silent Script** — a deep learning pipeline for ancient Brahmi character recognition
+- 🤝 Looking to collaborate on **React + Flask + Firebase** systems
+- 🌱 Currently learning **Next.js and ML model deployment**
+- 💬 Ask me about **React, Tailwind CSS, Flask, Firebase, MongoDB, Power BI**
+- 🌐 Live work: [wageestate.com](https://www.wageestate.com) · [Portfolio](https://lab-developers.web.app/)
 
 ---
 
-- 🔭 I’m currently working on **NEXT.JS and AI-based projects**  
-- 🤝 I’m looking to collaborate on **React + Flask + Firebase systems**  
-- 🌱 I’m currently learning **Next.js and ML model deployment**  
-- 💬 Ask me about **React, Tailwind CSS, Flask, Firebase, MongoDB, Power BI**  
-- 📫 How to reach me: https://lab-developers.web.app/
-
----
-
-### 🌐 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labdevelopers2025@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-bandara-a862462a5/)
-
----
-
-### ⚡ Languages and Tools
+### ⚡ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,flask,firebase,mongodb,python,tailwind,git,postman,mysql,vscode,html,css,dart,flutter,figma" />
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IT22089304&show_icons=true&theme=default&hide_border=true&title_color=6B3FA0&icon_color=6B3FA0&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22089304&layout=compact&hide_border=true&title_color=6B3FA0&text_color=333333" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22089304&hide_border=true&background=FFFFFF&ring=6B3FA0&fire=6B3FA0&currStreakLabel=6B3FA0" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:labdevelopers2025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lahiru-bandara-a862462a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lab-developers.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6B3FA0?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT22089304&style=flat-square&color=6B3FA0" alt="Profile views" />
+</p>
