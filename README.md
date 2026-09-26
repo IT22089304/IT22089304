@@ -17,7 +17,7 @@
 
 ### 🚀 What I'm up to
 
-- 🔭 Currently building **Next.js and AI-powered projects**, including **TagMe.lk** — a QR-based system for tagging and tracking physical assets (pre-launch)
+- 🔭 Currently building **Next.js and AI-powered projects**
 - 🎓 Running a final-year research project, **Silent Script** — a deep learning pipeline for ancient Brahmi character recognition
 - 🤝 Looking to collaborate on **React + Flask + Firebase** systems
 - 🌱 Currently learning **Next.js and ML model deployment**
